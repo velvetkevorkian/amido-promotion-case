@@ -1,0 +1,24 @@
+@font-face {
+  font-display: swap;
+  font-family: 'linux_biolinum';
+  font-style: normal;
+  font-weight: normal;
+  src: url('/assets/linbiolinum_rah.woff2') format('woff2');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'linux_libertineregular';
+  font-style: normal;
+  font-weight: normal;
+  src: url('/assets/linlibertine_rah.woff2') format('woff2');
+}
+
+body {
+  margin: 0;
+  font-family: 'linux_biolinum', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'linux_libertineregular', serif;
+}
