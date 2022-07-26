@@ -1,8 +1,7 @@
 ---
 permalink: "commercial-skills/"
+title: "Commercial Skills"
 ---
-
-## Commercial Skills
 
 ### Business Knowledge & Pre-sales
 

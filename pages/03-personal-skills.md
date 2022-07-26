@@ -1,8 +1,7 @@
 ---
 permalink: "personal-skills/"
+title: "Personal Skills"
 ---
-
-## Personal Skills
 
 ### Teamwork
 

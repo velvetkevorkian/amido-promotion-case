@@ -1,8 +1,7 @@
 ---
 permalink: "leadership-skills/"
+title: "Leadership Skills"
 ---
-
-## Leadership Skills
 
 ### Coaching
 
