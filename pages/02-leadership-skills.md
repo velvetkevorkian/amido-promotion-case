@@ -9,7 +9,9 @@ While working on Federated Modules I helped onboard Paul S, and worked with him 
 
 ### Risk
 
-On the EPM bugs team, it was important to balance fixing bugs against the potential of introducing new issues, and judge the risk/reward of issues that seemed minor but were not straightforward to fix.
+On the EPM bugs team, it was important to balance fixing bugs against the potential of introducing new issues, and judge the risk/reward of issues that seemed minor but were not straightforward to fix. 
+
+When working on the framework team, being aware of the impact our work will have on the BAU teams is key, and technical improvements have to be balanced against the cost of supporting those teams in the long run.
 
 ### Ownership
 

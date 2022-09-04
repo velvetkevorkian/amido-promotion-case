@@ -41,7 +41,7 @@ I've been an active participant in code review, and have suggested improvements 
 
 I spent time discussing with our team's UX contact when issues arose because designs hadn't accounted for some scenarios, and presented options for addressing them within the constraints of the EPM project.
 
-I led on translating Rob P's Next Product design system into a Material UI theme to be used across the suite of MFEs
+I translated Rob P's Next Product design system into a Material UI theme to be used across the suite of MFEs
 
 ### Articulates the purpose of chosen solutions using the most appropriate tools and frameworks of sub-systems
 
