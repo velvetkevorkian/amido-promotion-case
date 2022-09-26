@@ -1,19 +1,3 @@
----
-title: Promotion Case
----
-
-## Intro
-
-I've been an Interfaces & Devices consultant since November 2021. Since then, I've worked on:
-1. the Next EPM programme, as part of the bugs team
-2. Alessio's Federated Modules/SSR framework project
-3. Next's Product Transformation programme
-4. Next EPM again, on the Front-end Architecture/Framework team
-
-In that time, I've received excellent feedback from both Next and Amido developers suggesting that I have performed at a senior level.
-
-### Competency Diamond
-
 <svg viewBox="0 0 60 60" width="60" height="60" xmlns="http://www.w3.org/2000/svg">
   <g fill="none" stroke="rgba(79, 79, 79, 0.2)" stroke-width="1">
     <path d="M 30 5  55 30 30 55 5  30 z" />
@@ -25,7 +9,7 @@ In that time, I've received excellent feedback from both Next and Amido develope
 
   <path d="M 30 15 40 30 30 35 15 30 z" fill="none" stroke-width="1" stroke="rgb(217, 148, 22)"/>
 
-  <g font-size="2" font-family="linux_biolinum, sans-serif" font-weight="bold" fill="rgb(79, 79, 79)">
+  <g font-size="2" font-family="sans-serif" font-weight="bold" fill="rgb(79, 79, 79)">
     <text x="30" y="15">Leadership</text>
     <text x="40" y="30">Personal</text>
     <text x="30" y="35">Commercial</text>

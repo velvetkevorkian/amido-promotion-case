@@ -105,3 +105,21 @@ nav .active a {
   margin-left: auto;
   margin-right: auto;
 }
+
+svg {
+  display: block;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+text {
+  opacity: 0.5;
+  transition: 200ms opacity;
+  cursor: default;
+}
+
+text:hover {
+  opacity: 1;
+}
